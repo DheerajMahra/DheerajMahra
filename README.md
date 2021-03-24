@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently creating an npm package that logs random sarcastic messages to console while you debug your app 😜
+
 <!--
 **DheerajMahra/DheerajMahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
