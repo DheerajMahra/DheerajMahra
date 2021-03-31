@@ -1,7 +1,5 @@
 ### console.log('Hi there 👋');
 
-📝 2021 Todo List
-
 📌 Testing: React-testing-library + Jest (jan - june)
 
 📌 TypeScript (after june)
