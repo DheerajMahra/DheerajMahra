@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Currently creating an npm package that logs random sarcastic messages to console while you debug your app 😜
+📝 2021 Todo List
+
+📌 Testing: React-testing-library + Jest (jan - june)
+
+📌 TypeScript (after june)
 
 <!--
 **DheerajMahra/DheerajMahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
