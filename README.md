@@ -4,7 +4,7 @@ I'm currently working as a Software Engineer - Frontend at [Cars24](https://www.
 
 I code side projects whenever I get time. You can check them out below or visit my [website](https://dheerajmahra.now.sh) to know more. I share my frontend journey on my Instagram page, [madsemicolon](https://instagram.com/madsemicolon/) ✌️
 
-✨ Exploring Jest and testing-library currently.
+✨ Exploring aws and node.js in 2025
 
 <div style="display:flex; justify-content:space-between; width: 250px;">
     <a href="https://instagram.com/madsemicolon/" target="__blank">
