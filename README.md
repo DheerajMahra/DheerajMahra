@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm currently working as a Software Engineer - Frontend at [Cars24](https://www.cars24.com/), building e-commerce experiences for automobiles.
+I'm currently working as a Senior Frontend Engineer at [Simpplr](https://www.simpplr.com/). Previously, built e-commerce experiences for automobiles at [CARS24](https://www.cars24.com/).
 
 I code side projects whenever I get time. You can check them out below or visit my [website](https://dheerajmahra.now.sh) to know more. I share my frontend journey on my Instagram page, [madsemicolon](https://instagram.com/madsemicolon/) ✌️
 
